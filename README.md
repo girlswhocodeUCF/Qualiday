@@ -1,1 +1,10 @@
 # Qualiday
+![alt text](Presentation/1.png)
+![alt text](Presentation/2.png)
+![alt text](Presentation/project description.png)
+![alt text](Presentation/Tech Used.png)
+![alt text](Presentation/Challenges.png)
+![alt text](Presentation/Code Demonstration.png)
+![alt text](Presentation/Future Additions_Improvements.png)
+![alt text](Presentation/Project Demo.png)
+![alt text](Presentation/9.png)
